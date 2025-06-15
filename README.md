@@ -8,7 +8,7 @@ This project implements a **real-time facial emotion recognition system** using 
 
 ![Screenshot 2024-12-09 205438](https://github.com/user-attachments/assets/2a3274c0-bfef-418e-a968-b37ee378b095)
 
-![Screenshot 2024-12-09 205139](https://github.com/user-attachments/assets/004d1b10-ca21-498b-97a0-9a4f9e8da629)
+
 
 ---
 
